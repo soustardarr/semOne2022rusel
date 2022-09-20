@@ -1,1 +1,1 @@
-﻿Console.WriteLine("привет челики");
+﻿Console.WriteLine("авыаывавыаыавыавыав");
