@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/test_for_git/test_for_git/obj
+/test_for_git/test_for_git/bin/Debug/net6.0
+/test_for_git/.vs/test_for_git
