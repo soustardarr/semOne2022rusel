@@ -1,1 +1,1 @@
-﻿Console.WriteLine("dssdsd");
+﻿Console.WriteLine("привет челики");
