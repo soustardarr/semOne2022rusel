@@ -96,20 +96,28 @@ using System.Runtime.ExceptionServices;
 
 class Programm
 {
-    static int ahN(int n)
+    static double Hn(double n)
     {
-        var sum = 0;
-        for (int k = 1; k <= n; k++)
+        double sum = 0;
+        for (double k = 1.0; k <= n; k++)
         {
-            sum += 1 / k;
+            double b = 1.0 / k;
+            if (b <= 0.0001)
+            {
+                break;
+            }
+            sum += b;
         }
         return sum;
     }
     public static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-        var y = ahN(n) - Math.Log(n, Math.E) - 1 / 2 * n + 1 / 12 * n * n - 1 / 120 * Math.Pow(n, 4);
+        double n = double.Parse(Console.ReadLine());
+        double l = Math.Log(n, Math.E);
+        double s = (Math.Pow(n, 4.0));
+        double y = (Hn(n)) - l - (1.0 / (2 * n)) + (1.0 / (12 * (n * n))) - (1.0 / (120 * s));
         Console.WriteLine(y);
+
 
     }
 }
