@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\bin\Debug\net6.0\LaboratoryWork.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\bin\Debug\net6.0\LaboratoryWork.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\bin\Debug\net6.0\LaboratoryWork.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\bin\Debug\net6.0\LaboratoryWork.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\bin\Debug\net6.0\LaboratoryWork.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\refint\LaboratoryWork.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\LaboratoryWork.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LaboratoryWork\LaboratoryWork\obj\Debug\net6.0\ref\LaboratoryWork.dll

@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\bin\Debug\net6.0\TrainingProgram.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\bin\Debug\net6.0\TrainingProgram.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\bin\Debug\net6.0\TrainingProgram.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\bin\Debug\net6.0\TrainingProgram.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\bin\Debug\net6.0\TrainingProgram.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\refint\TrainingProgram.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\TrainingProgram.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\TrainingProgram\TrainingProgram\obj\Debug\net6.0\ref\TrainingProgram.dll

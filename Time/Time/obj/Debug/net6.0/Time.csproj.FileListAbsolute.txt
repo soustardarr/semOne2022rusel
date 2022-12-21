@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\bin\Debug\net6.0\Time.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\bin\Debug\net6.0\Time.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\bin\Debug\net6.0\Time.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\bin\Debug\net6.0\Time.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\bin\Debug\net6.0\Time.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\refint\Time.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\Time.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Time\Time\obj\Debug\net6.0\ref\Time.dll

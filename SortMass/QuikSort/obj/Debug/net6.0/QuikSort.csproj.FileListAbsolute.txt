@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\bin\Debug\net6.0\QuikSort.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\bin\Debug\net6.0\QuikSort.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\bin\Debug\net6.0\QuikSort.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\bin\Debug\net6.0\QuikSort.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\bin\Debug\net6.0\QuikSort.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\refint\QuikSort.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\QuikSort.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\QuikSort\obj\Debug\net6.0\ref\QuikSort.dll

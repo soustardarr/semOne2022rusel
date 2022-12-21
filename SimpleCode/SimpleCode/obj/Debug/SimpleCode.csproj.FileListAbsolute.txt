@@ -1,0 +1,8 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\bin\Debug\SimpleCode.exe.config
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\bin\Debug\SimpleCode.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\bin\Debug\SimpleCode.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\obj\Debug\SimpleCode.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\obj\Debug\SimpleCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\obj\Debug\SimpleCode.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\obj\Debug\SimpleCode.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SimpleCode\SimpleCode\obj\Debug\SimpleCode.pdb

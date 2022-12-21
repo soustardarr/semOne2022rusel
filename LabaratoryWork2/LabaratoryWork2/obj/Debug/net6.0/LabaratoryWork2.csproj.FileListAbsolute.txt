@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\bin\Debug\net6.0\LabaratoryWork2.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\bin\Debug\net6.0\LabaratoryWork2.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\bin\Debug\net6.0\LabaratoryWork2.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\bin\Debug\net6.0\LabaratoryWork2.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\bin\Debug\net6.0\LabaratoryWork2.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\refint\LabaratoryWork2.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\LabaratoryWork2.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\LabaratoryWork2\LabaratoryWork2\obj\Debug\net6.0\ref\LabaratoryWork2.dll

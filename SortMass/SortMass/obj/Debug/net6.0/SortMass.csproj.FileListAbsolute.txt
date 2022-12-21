@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\bin\Debug\net6.0\SortMass.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\bin\Debug\net6.0\SortMass.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\bin\Debug\net6.0\SortMass.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\bin\Debug\net6.0\SortMass.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\bin\Debug\net6.0\SortMass.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\refint\SortMass.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\SortMass.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\SortMass\SortMass\obj\Debug\net6.0\ref\SortMass.dll

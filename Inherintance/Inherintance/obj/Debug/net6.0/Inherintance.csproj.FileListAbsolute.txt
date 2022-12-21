@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\bin\Debug\net6.0\Inherintance.exe
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\bin\Debug\net6.0\Inherintance.deps.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\bin\Debug\net6.0\Inherintance.runtimeconfig.json
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\bin\Debug\net6.0\Inherintance.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\bin\Debug\net6.0\Inherintance.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.AssemblyInfo.cs
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\refint\Inherintance.dll
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.pdb
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\Inherintance.genruntimeconfig.cache
+C:\Users\rusla\source\repos\soustardarr\semOne2022rusel\Inherintance\Inherintance\obj\Debug\net6.0\ref\Inherintance.dll
